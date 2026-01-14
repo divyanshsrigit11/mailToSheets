@@ -11,5 +11,5 @@ This Python automation tool connects to a Gmail account, fetches unread emails, 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/divyanshsrigit11/gmail-to-sheets-automation.git
+   git clone https://github.com/divyanshsrigit11/mailToSheets.git
    cd gmailToSheets
